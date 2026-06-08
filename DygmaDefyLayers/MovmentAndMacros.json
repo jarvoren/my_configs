@@ -2,8 +2,8 @@
   "device": {
     "vendor": "Dygma",
     "product": "Defy",
-    "keyboardType": "wireless",
-    "displayName": "Dygma Defy wireless",
+    "keyboardType": "wired",
+    "displayName": "Dygma Defy wired",
     "urls": [
       {
         "name": "Homepage",
@@ -15,15 +15,15 @@
   "layerNames": [
     {
       "id": 0,
-      "name": "Base"
+      "name": "L1"
     },
     {
       "id": 1,
-      "name": "Symbols"
+      "name": "L2"
     },
     {
       "id": 2,
-      "name": "MovmentAndMacros"
+      "name": "L3"
     },
     {
       "id": 3,
@@ -81,7 +81,7 @@
     },
     {
       "keyCode": 53852,
-      "label": "Altf4",
+      "label": "1",
       "extraLabel": "MACRO"
     },
     {
@@ -317,10 +317,10 @@
       "label": "→"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 0,
@@ -462,8 +462,8 @@
     },
     {
       "keyCode": 227,
-      "label": "LEFT WIN",
-      "verbose": "Left Windows"
+      "label": "LEFT LINUX",
+      "verbose": "Left Linux"
     },
     {
       "keyCode": 0,
@@ -513,7 +513,7 @@
     15,
     15,
     15,
-    13,
+    11,
     15,
     15,
     15,
@@ -559,7 +559,7 @@
     15,
     15,
     15,
-    15,
+    11,
     3,
     3,
     3,
@@ -690,10 +690,10 @@
   ],
   "palette": [
     {
-      "r": 255,
-      "g": 196,
-      "b": 0,
-      "rgb": "rgb(255, 196, 0)"
+      "r": 89,
+      "g": 244,
+      "b": 240,
+      "rgb": "rgb(89, 244, 240)"
     },
     {
       "r": 0,
@@ -702,10 +702,10 @@
       "rgb": "rgb(0, 254, 24)"
     },
     {
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "rgb": "rgb(255, 255, 255)"
+      "r": 142,
+      "g": 219,
+      "b": 238,
+      "rgb": "rgb(142, 219, 238)"
     },
     {
       "r": 231,
@@ -720,10 +720,10 @@
       "rgb": "rgb(0, 254, 234)"
     },
     {
-      "r": 0,
-      "g": 52,
-      "b": 255,
-      "rgb": "rgb(0, 52, 255)"
+      "r": 231,
+      "g": 28,
+      "b": 207,
+      "rgb": "rgb(231, 28, 207)"
     },
     {
       "r": 255,
@@ -762,22 +762,22 @@
       "rgb": "rgb(255, 9, 0)"
     },
     {
-      "r": 163,
-      "g": 255,
+      "r": 0,
+      "g": 0,
       "b": 0,
-      "rgb": "rgb(163, 255, 0)"
-    },
-    {
-      "r": 254,
-      "g": 82,
-      "b": 105,
-      "rgb": "rgb(254, 82, 105)"
+      "rgb": "rgb(0, 0, 0)"
     },
     {
       "r": 0,
       "g": 0,
       "b": 0,
       "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 83,
+      "g": 146,
+      "b": 239,
+      "rgb": "rgb(83, 146, 239)"
     },
     {
       "r": 0,
